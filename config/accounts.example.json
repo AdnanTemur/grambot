@@ -1,0 +1,13 @@
+{
+  "accounts": [
+    {
+      "username": "your_username",
+      "password": "your_password",
+      "proxy": null,
+      "timezone": "Asia/Karachi",
+      "geolocation": {"latitude": 35.92, "longitude": 74.31},
+      "notes": "Primary account"
+    }
+  ],
+  "_comment": "Multi-account support for future use. Currently uses .env for single account."
+}

@@ -1,0 +1,9 @@
+# InstaBot Whitelist
+# Add usernames you NEVER want to unfollow (one per line).
+# Lines starting with # are comments.
+# Don't include the @ symbol.
+#
+# Examples:
+# natgeo
+# nasa
+# your_best_friend

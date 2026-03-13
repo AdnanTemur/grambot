@@ -1,0 +1,27 @@
+# Environment
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data (contains credentials & personal data)
+data/sessions/
+data/exports/
+data/action_log.json
+data/task_queue.json
+data/non_followers.csv
+config/accounts.json
+
+# Keep data directory structure
+!data/.gitkeep
+!data/exports/.gitkeep
+!data/sessions/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
